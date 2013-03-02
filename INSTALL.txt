@@ -1,0 +1,8 @@
+WARNING: This plugin uses a hack of Textual to translate text entered into the text field into links. The hook that it uses will crash Textual if you unload the plugin while loading. As long as you do not try to unload this plugin while Textual is running, it is safe to run.
+
+Install Instructions:
+
+1. Quit Textual
+2. Place in the folder: [home folder] -> Library -> Containers -> com.codeux.irc.textual -> Data -> Library -> Application Support -> Textual IRC -> Extensions 
+3. Start Textual
+
